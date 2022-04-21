@@ -1,0 +1,144 @@
+@media(max-width:1280px){
+    .container{
+        width: 800px;
+    }
+    .nav-content{
+        display: flex;
+        justify-content: space-between;
+    }
+    .intro{
+        display: flex;
+        flex-direction: column;
+        padding-top: 50px;
+    }
+    .left{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .h1{
+        font-size: 40px;
+        width: 500px;
+        margin-left: 100px;
+    }
+    .p{
+        font-size: 15px;
+    }
+    .p1{
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .intro-link{
+        font-size: 13px;
+        padding: 12px 29px;
+        max-width: 128px;
+    }
+    .image{
+        width: 600px;
+        height: 400px;
+    }
+    .main-intro{
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    .main-title{
+        width: 500px;
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+    .main-text{
+        width: 404px;
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .main-text1{
+        width: 320px;
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+    .left-intro{
+        padding-left: 0;
+        padding-top: 40px;
+    }
+    .right-intro{
+        padding-top: 10px;
+        padding-bottom: 15px;
+    }
+    .new-intro{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+    }
+    .side{
+        padding: 30px 0 20px;
+    }
+    .new-title{
+        font-size: 30px;
+        padding-bottom: 10px;
+        width: 350px;
+    }
+    .new-text{
+        font-size: 18px;
+        width: 500px;
+    }
+    .new-intro1{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 10px;
+    }
+    .control{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .right-block{
+        margin-top: 30px;
+    }
+    .h22{
+        font-size: 30px;
+        padding-top: 50px;
+        padding-bottom: 12px;
+    }
+    .p22{
+        font-size: 18px;
+        padding-bottom: 35px;
+    }
+    .upravleniye{
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 40px 0 15px;
+    }
+    .xz{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 0;
+    }
+    .title{
+        font-size: 30px;
+    }
+    .text{
+        font-size: 15px;
+        width: 380px;
+    }
+    .right-block1{
+        margin-top: 30px;
+    }
+    .upr{
+        flex-wrap: wrap;
+        flex-direction: column;
+        align-items: center;
+        padding-bottom: 30px;
+    }
+    .kub1{
+        margin-bottom: 0;
+        max-width: 347px;
+        margin-top: 30px;
+    }
+    .kub{
+        padding: 0;
+        padding-top: 30px;
+    }
+}
